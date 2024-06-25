@@ -1,18 +1,18 @@
 body{
     background-color: #fff9ac;
-    background-image: url(https://media.discordapp.net/attachments/1191412249399660575/1255134096930246666/bg2.jpg?ex=667c0637&is=667ab4b7&hm=1796f4509888ad04c0491e032ceb3552d0614ef6ecbeecfff30710bf6cbd875e&=&format=webp&width=1055&height=593);
+    background-image: url('/img/bg2.jpg');
+}
+
+.center-header{
+    background-image: url(/img/bg1.png);
+    padding: 40px;
 }
 
 .center-header h1{
     text-align: center;
     font-style: italic;
     font-family:Georgia, 'Times New Roman', Times, serif
-    color: rgb(0, 0, 0);
-    background-image: url(https://cdn.discordapp.com/attachments/1191412249399660575/1255134096192176230/bg1.png?ex=667c0637&is=667ab4b7&hm=4436d2de24aa6eaeca004e6d957ac3944ed7cad0cf189334d9770af2d348d613&);
-    
-    padding: 40px;
-    width: auto;
-    margin: auto;
+
 }
 
 .header h2{
