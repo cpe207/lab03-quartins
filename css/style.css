@@ -1,0 +1,156 @@
+body{
+    background-color: #fff9ac;
+    background-image: url('/img/bg2.jpg');
+}
+
+.center-header h1{
+    text-align: center;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    color: rgb(0, 0, 0);
+    background-image: url('/img/bg1.png');
+    
+    padding: 40px;
+    width: auto;
+    margin: auto;
+}
+
+.header h2{
+    text-align: center;
+    color: antiquewhite;
+    background-color: #d2004aa3;
+    padding: 5px;
+    width: auto;
+    margin: auto;
+}
+
+.header a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header a:hover{
+    color: #9e9e9e;
+}
+.myprofile{
+    font-family: Sriracha;
+
+}
+
+.myprofile img{
+    border-radius: 50%;
+}
+
+
+h3{
+    text-align: center;
+    font-family: Sriracha; 
+}
+
+p{
+    text-align: center;
+    font-family: Sriracha; 
+}
+
+.text1{
+        text-align: center;
+        margin: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1rem;
+        margin-bottom: 10px;
+}
+
+img{
+    margin: 20px;
+}
+
+.header2{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+
+.text3{
+    padding-top: 20px;
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+
+.text4{
+    text-align: center;
+    background-color: bisque;
+    border: solid #485778;
+    margin: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+.text-skill{
+    text-align: center;
+    background-color: bisque;
+    border: solid #485778;
+    margin: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+.text2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+
+.exp1{
+    font-family: Sriracha;
+    text-align: center;
+    margin: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+
+.exp2{
+    font-family: Sriracha;
+    text-align: center;
+   
+    margin: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+.card{
+    margin-top: 50px;
+}
+.card img{
+    width: 250px;
+}
+
+.card h5{
+    text-align: center;
+    font-style: italic;
+}
+
+.skillcard {
+    text-align: center;
+}
+
+.p-4{
+    font-family: Sriracha;
+}
+
